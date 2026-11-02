@@ -2,6 +2,16 @@
 
 Hello! I am a second-year Computer Science and Engineering student interested in programming, problem-solving, and software development.
 
-I am currently strengthening my foundations in C, Java, Data Structures and Algorithms, and Database Management Systems.
+I am currently learning C, Java, Data Structures and Algorithms, and Database Management Systems. This repository showcases my coding practice, academic activities, and programming journey.
 
-This repository serves as my learning portfolio, where I share my academic activities, coding practice, and projects as I continue developing my technical skills and preparing for future opportunities.
+## Programming Skills
+
+- C – Data Structures and Algorithms
+- Java – Object-Oriented Programming
+- SQL – Database Management Systems
+- HTML, CSS and JavaScript – Web Development
+
+## Projects
+
+- BuildTrack – Construction Management System
+- C and Java programming practice
